@@ -10,7 +10,7 @@ SSM_BookSystem V0 - 版本详细说明
 
 说明：本项目目前包含基础的CRUD
 
-作者：hisenyuan
+
 
 主页：<a href="http://hisen.me" target="_blank">hisen.me</a>
 
@@ -320,4 +320,3 @@ Book{bookId=101, name='活着0', number=100, detail='描述0'}
         │   └── list.jsp
         └── web.xml
 ```
-具体内容：<a href="https://github.com/hisen-yuan/SSM_BookSystem/tree/master/BookSystem_V0/src/main/webapp" target="_blank">查看具体内容</a>
